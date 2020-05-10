@@ -2,13 +2,13 @@ Linear Regression - Advertisement impact on Sales
 
 The objective is to use linear regression to understand how advertisement spending impacts sales
 
-##Import libraries
+## Import libraries
 import all the necessary libraries
 
-##Read the data
+## Read the data
 Load and review data
 
-##Implement Linear Regression Model - Simple
+## Implement Linear Regression Model - Simple
 
 ## Assess the relevancy of the model
 Check p-value,R², F-statistic...
